@@ -164,7 +164,7 @@ projects[bibdk_forsrights][download][tag] = 7.x-0.2
 projects[bibdk_frontend][type] = module
 projects[bibdk_frontend][download][type] = git
 projects[bibdk_frontend][download][url] = git@github.com:DBCDK/bibdk_frontend.git
-projects[bibdk_frontend][download][tag] = 7.x-0.29
+projects[bibdk_frontend][download][branch] = feature/1193_features
 
 projects[bibdk_furthersearch][type] = module
 projects[bibdk_furthersearch][download][type] = git
@@ -291,7 +291,7 @@ projects[bibdk_subject_hierarchy][download][tag] = 7.x-0.1
 projects[bibdk_config][type] = module
 projects[bibdk_config][download][type] = git
 projects[bibdk_config][download][url] = git.dbc.dk:/repos/bibliotek.dk/bibdk_config.git
-projects[bibdk_config][download][tag] = 7.x-0.5
+projects[bibdk_config][download][branch] = feature/1193_features
 
 
 ; --- Contrib modules ---
