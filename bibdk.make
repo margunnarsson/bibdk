@@ -21,7 +21,8 @@ libraries[ckeditor][download][url] = http://download.cksource.com/CKEditor/CKEdi
 projects[bibdk_theme][type] = theme
 projects[bibdk_theme][download][type] = git
 projects[bibdk_theme][download][url] = git@github.com:DBCDK/bibdk_theme.git
-projects[bibdk_theme][download][tag] = 7.x-0.39
+; projects[bibdk_theme][download][tag] = 7.x-0.39
+projects[bibdk_theme][download][branch] = feature/852-show_material_type_reservation
 
 ; --- Bibliotek.dk versions of Ding2 modules ---
 
@@ -209,7 +210,8 @@ projects[bibdk_mypage][download][tag] = 7.x-0.4
 projects[bibdk_openorder][type] = module
 projects[bibdk_openorder][download][type] = git
 projects[bibdk_openorder][download][url] = git@github.com:DBCDK/bibdk_openorder.git
-projects[bibdk_openorder][download][tag] = 7.x-0.11
+; projects[bibdk_openorder][download][tag] = 7.x-0.11
+projects[bibdk_openorder][download][branch] = feature/852-show_material_type_reservation
 
 projects[bibdk_openuserstatus][type] = module
 projects[bibdk_openuserstatus][download][type] = git
@@ -224,7 +226,8 @@ projects[bibdk_provider][download][tag] = 7.x-0.23
 projects[bibdk_reservation][type] = module
 projects[bibdk_reservation][download][type] = git
 projects[bibdk_reservation][download][url] = git@github.com:DBCDK/bibdk_reservation.git
-projects[bibdk_reservation][download][tag] = 7.x-0.27
+; projects[bibdk_reservation][download][tag] = 7.x-0.27
+projects[bibdk_reservation][download][branch] = feature/852-show_material_type_reservation
 
 projects[bibdk_reviews][type] = module
 projects[bibdk_reviews][download][type] = git
